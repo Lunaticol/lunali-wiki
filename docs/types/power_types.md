@@ -9,10 +9,13 @@ a `type` field in the JSON. Which type a power is defines which other fields it 
 
 ## Regular Types
 
+- [Glowing](powers/regular/lunali_glowing.md)
+- [Lag Hitbox](powers/regular/lunali_lag_hitbox.md)
 - [Obfuscate](powers/regular/lunali_obfuscate.md)
-- [Lagged Hitbox](powers/regular/lunali_obfuscate.md)
 
 ## Modifying Types
+
+- [Modify Key Press](powers/modify/lunali_modify_key.md)
 
 ## Preventing Types
 

@@ -10,7 +10,7 @@ There are two background options you can set. You can use one or the other, or b
 
 | Field              | Type                                                                                | Default                               | Description                                                                  |
 | ------------------ | ----------------------------------------------------------------------------------- | ------------------------------------- | ---------------------------------------------------------------------------- |
-| `background`       | [Identifier](https://origins.readthedocs.io/en/latest/types/data_types/string/)     | lunali:textures/gui/choose_origin.png | Defines the GUI background to use. Just uses the default Origins background. |
+| `background`       | [Identifier](https://origins.readthedocs.io/en/latest/types/data_types/identifier/) | lunali:textures/gui/choose_origin.png | Defines the GUI background to use. Just uses the default Origins background. |
 | `block_background` | [Identifier](https://origins.readthedocs.io/en/latest/types/data_types/identifier/) | minecraft:textures/block/dirt.png     | Defines the tile background when choosing an origin for the first time.      |
 
 ```JSON
@@ -33,6 +33,7 @@ There are two background options you can set. You can use one or the other, or b
 </figure>
 
 Above is the default template for custom backgrounds. If you havent noticed, some areas may have a box over them.
+You are not required to use a custom texture for backgrounds as you can specify any texture. I cannot promise it'll look good though.
 
 - Black: Border for the Origin GUI
 - Turqoise: Where text is visible
