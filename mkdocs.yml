@@ -2,44 +2,44 @@ site_name: Lunali Documentation
 site_url: https://lunali.readthedocs.io
 nav:
   - Home: index.md
-  Power Types: types/power_types.md
+  - Power Types: types/power_types.md
   - Action Types:
-    - Entity Action Types: types/entity_action_types.md
+      - Entity Action Types: types/entity_action_types.md
   - Base origin Changes:
-    - Base Origins: types/base_origin_changes.md
+      - Base Origins: types/base_origin_changes.md
 theme:
   name: material
   features:
     - content.code.annotate
     - navigation.expand
   palette:
-    - media: "(prefers-color-scheme: dark)" 
+    - media: "(prefers-color-scheme: dark)"
       scheme: default
       primary: purple
       accent: light-purple
       toggle:
         icon: material/toggle-switch-off-outline
-        name: Switch to dark mode  
-    - media: "(prefers-color-scheme: dark)" 
+        name: Switch to dark mode
+    - media: "(prefers-color-scheme: dark)"
       scheme: slate
       primary: purple
       accent: light-purple
       toggle:
         icon: material/toggle-switch
-        name: Switch to light mode  
+        name: Switch to light mode
   logo: images/favicon.png
   favicon: images/favicon.png
 extra:
-    social:
-      - icon: fontawesome/brands/discord
-        link: https://discord.gg/pQgEvEYpyq
-        name: My Discord!
+  social:
+    - icon: fontawesome/brands/discord
+      link: https://discord.gg/pQgEvEYpyq
+      name: My Discord!
 markdown_extensions:
-    - toc:
-        separator: "_"
-    - pymdownx.highlight:
-        anchor_linenums: true
-    - admonition
-    - pymdownx.inlinehilite
-    - pymdownx.snippets
-    - pymdownx.superfences
+  - toc:
+      separator: "_"
+  - pymdownx.highlight:
+      anchor_linenums: true
+  - admonition
+  - pymdownx.inlinehilite
+  - pymdownx.snippets
+  - pymdownx.superfences
