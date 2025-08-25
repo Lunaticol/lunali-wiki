@@ -15,14 +15,14 @@ theme:
   palette:
     - media: "(prefers-color-scheme: dark)"
       scheme: default
-      primary: purple
+      primary: FF9EFA
       accent: light-purple
       toggle:
         icon: material/toggle-switch-off-outline
         name: Switch to dark mode
     - media: "(prefers-color-scheme: dark)"
       scheme: slate
-      primary: purple
+      primary: FF9EFA
       accent: light-purple
       toggle:
         icon: material/toggle-switch
