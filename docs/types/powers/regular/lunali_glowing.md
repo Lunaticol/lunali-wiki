@@ -12,7 +12,7 @@ Type ID: `lunali:glowing`
 
 !!! note
 
-Dynamic lighting will come in the future.
+    Dynamic lighting will come in the future.
 
 ## Examples
 

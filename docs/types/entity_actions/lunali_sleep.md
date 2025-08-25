@@ -15,7 +15,7 @@ Type ID: `lunali:sleep`
 
 !!! note
 
-You should probably use [`origins:prevent_sleep`](https://origins.readthedocs.io/en/latest/types/power_types/prevent_sleep/) if you want to prevent the player from sleeping with beds. Do also note that beds do not work for daytime, even if `sleep_during_day` is true.
+    You should probably use [`origins:prevent_sleep`](https://origins.readthedocs.io/en/latest/types/power_types/prevent_sleep/) if you want to prevent the player from sleeping with beds. Do also note that beds do not work for daytime, even if `sleep_during_day` is true.
 
 ## Examples
 

@@ -15,7 +15,7 @@ Type ID: `lunali:obfuscate`
 
 !!! note
 
-When Obfuscating the nametag, the characters will rapidly change. This is displayed in the tab menu aswell.
+    When Obfuscating the nametag, the characters will rapidly change. This is displayed in the tab menu aswell.
 
 ## Examples
 
