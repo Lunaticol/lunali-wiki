@@ -1,4 +1,4 @@
-site_name: Lunali Documentation
+site_name:
 site_url: https://lunali.readthedocs.io
 nav:
   - Home: index.md
