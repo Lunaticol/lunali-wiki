@@ -42,6 +42,6 @@ Above is the default template for custom backgrounds. If you havent noticed, som
 ### Additonal Information
 
 - The circles are impacts, changing one changes all 3 that are rendered
-- The gray bock with the green smile is unused, ignore it (or say hi to karl)
+- The gray block with the green smile is unused, ignore it (or say hi to karl)
 - the red & blue rectangles are scroll bars, red for unclicked and blue for clicked.
 - The black bar beside the scroll bars is the main scroll bar.

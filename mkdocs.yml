@@ -42,5 +42,8 @@ markdown_extensions:
   - pymdownx.inlinehilite
   - pymdownx.snippets
   - pymdownx.superfences
+  - attr_list
+  - md_in_html
+  - pymdownx.blocks.caption
 extra_css:
   - stylesheets/extra.css

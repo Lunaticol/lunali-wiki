@@ -12,7 +12,7 @@ a `type` field in the JSON. Which type a power is defines which other fields it 
 - [Obfuscate](powers/regular/lunali_obfuscate.md)
 - [Lagged Hitbox](powers/regular/lunali_obfuscate.md)
 
-## Modifing Types
+## Modifying Types
 
 ## Preventing Types
 
