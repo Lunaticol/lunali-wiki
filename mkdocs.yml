@@ -5,8 +5,7 @@ nav:
   - Power Types: types/power_types.md
   - Action Types:
       - Entity Action Types: types/entity_action_types.md
-  - Base origin Changes:
-      - Base Origins: types/base_origin_changes.md
+  - Backgrounds: types/origin_backgrounds.md
 theme:
   name: material
   features:
