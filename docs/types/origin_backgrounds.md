@@ -29,7 +29,7 @@ There are two background options you can set. You can use one or the other, or b
 
 <figure markdown="span">
   ![Background Template](https://i.imgur.com/Oz49RsX.png){ width="300" }
-  <figcaption>Image caption</figcaption>
+  <figcaption>Background Template</figcaption>
 </figure>
 
 Above is the default template for custom backgrounds. If you havent noticed, some areas may have a box over them.
