@@ -22,4 +22,4 @@ Type ID: `lunali:is_thundering`
   }
 ```
 
-This example will cause dust particles to spawn under the player if it is currently snowing.
+This example will cause dust particles to spawn under the player if it is currently thundering.
