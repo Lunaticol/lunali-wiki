@@ -1,6 +1,6 @@
 # Sleep Action
 
-[Power Type](https://lunali-wiki.readthedocs.io/en/latest/types/power_types/)
+[Entity Action](https://lunali-wiki.readthedocs.io/en/latest/types/entity_action_types/)
 
 Causes the player to sleep, skipping the night or day if specified.
 
@@ -10,8 +10,9 @@ Type ID: `lunali:sleep`
 | -------------------- | ----------------------------------------------------------------------------- | -------------------------- | ------------------------------------------------- |
 | `sleep_during_day`   | [String](https://origins.readthedocs.io/en/latest/types/data_types/boolean/)  | false                      | If the player is allowed to sleep during the day. |
 | `sleep_during_night` | [Boolean](https://origins.readthedocs.io/en/latest/types/data_types/boolean/) | true                       | If the player is allowed to sleep at night.       |
-| `fail_message`       | [Boolean](https://origins.readthedocs.io/en/latest/types/data_types/string/)  | You can't sleep right now. | The fail message to send to the player.           |
 | `set_spawnpoint`     | [Boolean](https://origins.readthedocs.io/en/latest/types/data_types/boolean/) | true                       | If sleeping sets your spawnpoint.                 |
+| `skip_weather`       | [Boolean](https://origins.readthedocs.io/en/latest/types/data_types/boolean/) | true                       | If sleeping skips weather upon waking up          |
+| `fail_message`       | [Boolean](https://origins.readthedocs.io/en/latest/types/data_types/string/)  | You can't sleep right now. | The fail message to send to the player.           |
 
 !!! note
 
@@ -28,10 +29,11 @@ Type ID: `lunali:sleep`
       "type": "lunali:sleep",
       "sleep_during_day": true,
       "sleep_during_night": false,
+      "skip_weather": true,
       "fail_message": "You are not tired.",
       "set_spawnpoint": true
     }
   }
 ```
 
-This example will cause the player to fall asleep without a bed during the daytime. If the player attempts to sleep at night the message "You are not tired." will appear. also sets the player spawnpoint.
+This example will cause the player to fall asleep without a bed during the daytime & skip weather when waking up. If the player attempts to sleep at night the message "You are not tired." will appear. also sets the player spawnpoint.

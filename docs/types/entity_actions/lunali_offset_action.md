@@ -1,6 +1,6 @@
 # Offset Action
 
-[Power Type](https://lunali-wiki.readthedocs.io/en/latest/types/power_types/)
+[Entity Action](https://lunali-wiki.readthedocs.io/en/latest/types/entity_action_types/)
 
 Causes entity actions to become offset, origin point being the player.
 
