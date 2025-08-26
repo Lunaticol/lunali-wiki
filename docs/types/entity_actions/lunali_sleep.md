@@ -8,11 +8,11 @@ Type ID: `lunali:sleep`
 
 | Field                | Type                                                                          | Default                    | Description                                       |
 | -------------------- | ----------------------------------------------------------------------------- | -------------------------- | ------------------------------------------------- |
-| `sleep_during_day`   | [String](https://origins.readthedocs.io/en/latest/types/data_types/boolean/)  | false                      | If the player is allowed to sleep during the day. |
+| `sleep_during_day`   | [Boolean](https://origins.readthedocs.io/en/latest/types/data_types/boolean/) | false                      | If the player is allowed to sleep during the day. |
 | `sleep_during_night` | [Boolean](https://origins.readthedocs.io/en/latest/types/data_types/boolean/) | true                       | If the player is allowed to sleep at night.       |
 | `set_spawnpoint`     | [Boolean](https://origins.readthedocs.io/en/latest/types/data_types/boolean/) | true                       | If sleeping sets your spawnpoint.                 |
 | `skip_weather`       | [Boolean](https://origins.readthedocs.io/en/latest/types/data_types/boolean/) | true                       | If sleeping skips weather upon waking up          |
-| `fail_message`       | [Boolean](https://origins.readthedocs.io/en/latest/types/data_types/string/)  | You can't sleep right now. | The fail message to send to the player.           |
+| `fail_message`       | [String](https://origins.readthedocs.io/en/latest/types/data_types/string/)   | You can't sleep right now. | The fail message to send to the player.           |
 
 !!! note
 
