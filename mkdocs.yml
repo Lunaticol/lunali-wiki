@@ -9,6 +9,7 @@ nav:
       - Entity Conditions: types/entity_condition_types.md
       - Misc Entity Conditions: types/misc_condition_types.md
   - Backgrounds: types/origin_backgrounds.md
+  - Custom Impacts: types/custom_impacts.md
 theme:
   name: material
   features:

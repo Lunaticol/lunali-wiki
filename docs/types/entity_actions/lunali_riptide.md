@@ -4,7 +4,7 @@
 
 Causes the user to riptide regardless of rain. Also puts the user into riptide animation with a riptide hitbox.
 
-Type ID: `lunali:return_to_spawnpoint`
+Type ID: `lunali:riptide`
 
 | Field      | Type                                                                          | Default | Description                                                 |
 | ---------- | ----------------------------------------------------------------------------- | ------- | ----------------------------------------------------------- |

@@ -1,10 +1,10 @@
-# Offset Action
+# Spawn Evoker Fangs Action
 
 [Entity Action](https://lunali-wiki.readthedocs.io/en/latest/types/entity_action_types/)
 
 Causes the users screen to shake.
 
-Type ID: `lunali:offset_action`
+Type ID: `lunali:spawn_evoker_fangs`
 
 | Field            | Type                                                                          | Default | Description                                                                                                        |
 | ---------------- | ----------------------------------------------------------------------------- | ------- | ------------------------------------------------------------------------------------------------------------------ |
