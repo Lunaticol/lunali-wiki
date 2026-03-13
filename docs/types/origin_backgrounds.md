@@ -11,7 +11,7 @@ There are two background options you can set. You can use one or the other, or b
 | Field              | Type                                                                                | Default                               | Description                                                                  |
 | ------------------ | ----------------------------------------------------------------------------------- | ------------------------------------- | ---------------------------------------------------------------------------- |
 | `background`       | [Identifier](https://origins.readthedocs.io/en/latest/types/data_types/identifier/) | lunali:textures/gui/choose_origin.png | Defines the GUI background to use. Just uses the default Origins background. |
-| `block_background` | [Identifier](https://origins.readthedocs.io/en/latest/types/data_types/identifier/) | minecraft:textures/block/dirt.png     | Defines the tile background when choosing an origin for the first time.      |
+| `block_background` | [Identifier](https://origins.readthedocs.io/en/latest/types/data_types/identifier/) | minecraft:textures/block/dirt.png     | Defines the tile background when choosing an origin for the first time. This is deprecated in 1.21.1 and doesnt do anything anymore.      |
 
 ```JSON
 {
@@ -21,7 +21,7 @@ There are two background options you can set. You can use one or the other, or b
   "icon": "origins:orb_of_origin",
   "powers": [],
   "background": "lunali:textures/gui/choose_origin_test.png",
-  "block_background": "minecraft:textures/block/cherry_log.png"
+  "block_background": "minecraft:textures/block/cherry_log.png" // Deprecated in 1.21.1
 }
 ```
 
