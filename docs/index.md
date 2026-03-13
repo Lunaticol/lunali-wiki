@@ -10,6 +10,6 @@ If you would like to support the development of Lunali you can join the [Discord
 
 # Q&A
 
-## Will I need to change my identifiers for backported powers?
+### Will I need to change my identifiers for backported powers?
 
 Lunali has built in compatibility with existing origin type identifiers, if your powers use things such as `origins:is_snow` or `apoli:action_on_death` they should work as intended. If you want to switch your identifiers for lunali, lunali still supports adding `lunali:power` to backported powers.

@@ -1,4 +1,4 @@
-# Prevent Shaders
+# Is Thundering Entity Condition
 
 [Entity Condition Type](https://lunali-wiki.readthedocs.io/en/latest/types/entity_condition_types/)
 
