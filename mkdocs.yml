@@ -9,8 +9,8 @@ nav:
       - Entity Conditions: types/entity_condition_types.md
       - Misc Entity Conditions: types/misc_condition_types.md
   - Backported:
-      - Power Types: types/backported/power_types.md
-      - Entity Conditions: types/backported/entity_condition_types.md
+      - Power Types: types/power_types.md
+      - Entity Conditions: types/entity_condition_types.md
   - Backgrounds: types/origin_backgrounds.md
 theme:
   name: material
